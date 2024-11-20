@@ -118,6 +118,16 @@ The code is written in C and utilizes the AVR libraries for hardware interfacing
 
 ---
 
+## Circuit Diagram
+
+Below is the Proteus simulation for the DualMode Stopwatch project:
+
+![Proteus Simulation](assets/proteus_simulation.png)
+
+To explore or edit the circuit, open the included Proteus project file (`Proteus P2.pdsprj`) using Proteus Design Suite.
+
+---
+
 ## Future Enhancements
 
 - Add an OLED or LCD for enhanced time display.
