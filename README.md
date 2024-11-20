@@ -122,7 +122,7 @@ The code is written in C and utilizes the AVR libraries for hardware interfacing
 
 Below is the Proteus simulation for the DualMode Stopwatch project:
 
-![Proteus Simulation](<img width="1917" alt="proteus_simulation" src="https://github.com/user-attachments/assets/18ffa436-439a-4235-a0da-767720f36ae9">)
+<img width="1917" alt="proteus_simulation" src="https://github.com/user-attachments/assets/c0c7edff-b682-4c84-b06e-84ffef46e15b">
 
 To explore or edit the circuit, open the included Proteus project file (`Proteus P2.pdsprj`) using Proteus Design Suite.
 
